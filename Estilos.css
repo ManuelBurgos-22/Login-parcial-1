@@ -1,11 +1,13 @@
 div{
-    background-color: #98DED9;
-    width: 500px;
-    height: 700px;
-    position: relative;
-    left: 540px;
-    top: 25px;
+    background-color: #FF8A8A;
+    width: 400px;
+    height: 500px;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+    font-family: 'Segoe UI';
+    font-size: large;
+    border-radius: 10px;
+    text-align: center;
 }
