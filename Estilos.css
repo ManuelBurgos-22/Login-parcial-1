@@ -1,0 +1,11 @@
+div{
+    background-color: #98DED9;
+    width: 500px;
+    height: 700px;
+    position: relative;
+    left: 540px;
+    top: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
